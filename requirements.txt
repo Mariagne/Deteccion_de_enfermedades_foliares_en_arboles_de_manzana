@@ -2,3 +2,5 @@ matplotlib
 opencv-python
 scikit-image
 pillow
+pandas
+scikit-learn
